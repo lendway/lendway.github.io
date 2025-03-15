@@ -17,7 +17,7 @@ layout: single
 
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). [Paper Link](/Historical_Analogy_SSRN.pdf)
 
-"Sermon Rhetoric and White Evangelical Support for the Republican Party."
+"Sermon Rhetoric and White Evangelical Support for the Republican Party." R&R at _Political Behavior_.
 
 "Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler).
 
