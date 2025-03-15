@@ -19,7 +19,7 @@ layout: single
 
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). [Paper Link](/Historical_Analogy_SSRN.pdf)
 
-"Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler).
+"Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). [Paper Link](/Populism_Meta_Analysis_Paper.pdf)
 
 **Sample of Other Writing:**
 
