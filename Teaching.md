@@ -13,8 +13,6 @@ America’s political economy critically hinges on open markets, individual libe
 
 
 -----------------------------------------------------------------------------------------------------
-
- &nbsp; 
  
 Teaching at Yale University: 
 
