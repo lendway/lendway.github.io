@@ -13,7 +13,7 @@ Welcome! I am a PhD candidate in the Department of Political Science at Yale Uni
 
 My research is published in _**American Politics Research**_, _**Environmental Politics**_, and the _**Yale Journal of International Affairs**_. I have presented my research at a wide range of organizations, including the American Political Science Association,  Harvard University, Princeton University, and Yale University. Funding for my research has been provided by the University of Pennsylvania, Yale University, and other organizations.
 
-Teaching is a great passion of mine! At Yale, I have served as a graduate teaching fellow for six courses: Capitalism and Crisis, Introduction to American Politics (twice), Introduction to Comparative Politics, Introduction to Statistics, and Strategic Models of Politics. Throughout this teaching experience, I obtained Yale's Teaching Certificate.  
+Teaching is a great passion of mine! At Stanford, I will be the instructor of record for a course entitled Liberalism and Populism in American Political Economy. At Yale, I served as a graduate teaching fellow for six courses: Capitalism and Crisis, Introduction to American Politics (twice), Introduction to Comparative Politics, Introduction to Statistics, and Strategic Models of Politics. Throughout this teaching experience, I obtained Yale's Teaching Certificate.  
 
 At Yale, I have served as a Lead Editor for the Yale Journal of Health Policy, Law, and Ethics, a Content Editor for the Yale Journal of International Affairs, and a Co-Coordinator for the Yale Institute for Social and Policy Studies Graduate Policy Fellows Program. I was also a Visiting Editor for Princeton's Journal of Public and International Affairs. 
 
