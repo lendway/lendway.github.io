@@ -4,6 +4,8 @@ layout: single
 ---
  &nbsp; 
 
+Teaching at Stanford University:
+
 **Liberalism and Populism in American Political Economy (Fall 2025)** <br />
 Instructor: Paul Lendway
 
@@ -12,9 +14,9 @@ America’s political economy critically hinges on open markets, individual libe
 
 -----------------------------------------------------------------------------------------------------
 
-At Yale, I received a Teaching Certificate and served as a Teaching Fellow for the following courses: 
-
  &nbsp; 
+ 
+Teaching at Yale University: 
 
 **Capitalism and Crisis (Spring 2021)** <br />
 Instructor: Isabela Mares
