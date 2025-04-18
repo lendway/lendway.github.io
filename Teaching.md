@@ -6,7 +6,7 @@ layout: single
 
 Teaching at Stanford University:
 
-**Liberalism and Populism in American Political Economy (Fall 2025)** <br />
+**Liberalism and Populism in the American Political Economy (Fall 2025)** <br />
 Instructor: Paul Lendway
 
 _"America’s political economy critically hinges on open markets, individual liberties, and institutional constraints legitimized by state constitutions. Domestically and abroad, recent decades have consisted of a meteoric rise of populists on the ideological left and ideological right challenging these core assumptions under the mantle of the people’s will. This class will examine foundational texts on liberalism and populism, discuss the historic interplay between the two in the context of American politics, and wrestle with how America’s political economy can respond to the theoretical and practical challenges of populism."_  
