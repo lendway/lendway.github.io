@@ -9,7 +9,7 @@
 
 
 
-Welcome! I will graduate with a Ph.D. in Political Science (with departmental distinction) from Yale University in May 2025. **In the summer of 2025, I will begin a Postdoctoral Fellowship at Stanford University.** 
+Welcome! I graduated with a Ph.D. in Political Science (with departmental distinction) from Yale University in May 2025. **In July 2025, I will begin a Postdoctoral Fellowship at Stanford University.** 
 
 My primary research agenda investigates major questions at the intersection of populism, conservativism, and contemporary American political attitudes. Do populist appeals increase mass support for democratic backsliding? What explains the link between White evangelicals and the Republican Party? Regarding the first question, my first dissertation paper (invited to revise and resubmit at _**Political Behavior**_) tests a theoretical framework for how populist appeals increase mass support for democratic backsliding. My second dissertation paper (also invited to revise and resubmit at _**Political Behavior**_) is part of a broader book project that speaks to the second question. While that paper started out as an exploration of the link between White evangelicals and Trump, it has broadened to an investigation of the link between White evangelicals and the Republican Party. 
 
