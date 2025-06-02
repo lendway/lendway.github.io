@@ -21,6 +21,8 @@ layout: single
 
 "Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
 
+"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw)
+
 **Sample of Other Writing:**
 
 "The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences." _Yale Journal of International Affairs_. [Paper Link](https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences)
