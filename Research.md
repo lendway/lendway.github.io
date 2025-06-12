@@ -15,7 +15,7 @@ layout: single
 
 "Thin Populist Appeals and Democratic Backsliding: An Analysis of Four U.S. Survey Experiments." R&R at _**Political Behavior**_. 
 
-"Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise%20Paper.pdf)
+"Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008)
 
