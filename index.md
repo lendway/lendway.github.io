@@ -17,7 +17,7 @@ My research is published in _**American Politics Research**_, _**Environmental P
 
 Teaching is a great passion of mine! At Stanford, I will be the instructor of record for a course entitled Liberalism and Populism in the American Political Economy. At Yale, I obtained Yale's Teaching Certificate and served as a graduate teaching fellow for six courses: Capitalism and Crisis, Introduction to American Politics (twice), Introduction to Comparative Politics, Introduction to Statistics, and Strategic Models of Politics. 
 
-I received a Bachelor's of Business Administration at William and Mary as well as a Master's of Public Administration at the University of Pennsylvania. Earlier in my career, I completed a Leadership Development Program at a Fortune 500 company called Amerigroup (now part of Elevance Health). I also served as the Faculty of Health Sciences Program Coordinator and Office of Undergraduate Studies Business Manager at Virginia Tech. 
+I received a Bachelor's of Business Administration at William and Mary as well as a Master's of Public Administration at the University of Pennsylvania. Before entering academia, I completed a Leadership Development Program at a Fortune 500 company called Amerigroup (now part of Elevance Health). I also served as the Faculty of Health Sciences Program Coordinator and Office of Undergraduate Studies Business Manager at Virginia Tech. 
 
 
 
