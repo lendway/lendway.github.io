@@ -13,7 +13,7 @@ layout: single
 
 "Sermon Rhetoric and White Evangelical Support for the Republican Party." R&R at _**Political Behavior**_.
 
-"Thin Populist Appeals and Democratic Backsliding: An Analysis of Four U.S. Survey Experiments." R&R at _**Political Behavior**_. 
+"Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." R&R at _**Political Behavior**_. 
 
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
