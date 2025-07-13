@@ -15,9 +15,9 @@ layout: single
 
 "Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." R&R at _**Political Behavior**_. 
 
-"Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
+"Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). R&R at _**The Journal of Conflict Resolution**_. [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008)
 
-"Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008)
+"Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
 "Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
 
