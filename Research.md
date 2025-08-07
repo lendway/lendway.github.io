@@ -29,4 +29,4 @@ layout: single
 
 **Sample of Other Writing:**
 
-"The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences." _Yale Journal of International Affairs_. [Paper Link](https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences)
+"The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences." _**Yale Journal of International Affairs**_. [Paper Link](https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences)
