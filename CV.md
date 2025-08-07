@@ -4,4 +4,4 @@ layout: single
 ---
 
 
-To request a copy of my CV, please email me at: Paul.Lendway@yale.edu. 
+To request a copy of my CV, please email me at: Lendway@Stanford.edu. 
