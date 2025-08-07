@@ -24,6 +24,9 @@ layout: single
 
 "Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw)
 
+"Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath)
+
+
 **Sample of Other Writing:**
 
 "The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences." _Yale Journal of International Affairs_. [Paper Link](https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences)
