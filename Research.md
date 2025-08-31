@@ -8,7 +8,7 @@ layout: single
 "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). _**Environmental Politic**s_. [Paper Link](https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top)
 
  <ul>
-      <li> Shortlisted.</li>
+      <li> Shortlisted for best paper in Environmental Politics for the year 2024. 
 
 </ul>
 
