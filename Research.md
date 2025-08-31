@@ -10,7 +10,7 @@ layout: single
  <ul>
       <li> Shortlisted.</li>
 
-    </ul>
+
 
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). _**American Politics Research**_. [Paper Link](https://journals.sagepub.com/eprint/XKEEENHBVUHAYAGHRCZR/full) 
 
