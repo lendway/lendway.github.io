@@ -6,7 +6,7 @@ layout: single
 **Peer-Reviewed Publications:** 
  
 "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). _**Environmental Politic**s_. [Paper Link](https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top)     
-  &nbsp; *Shortlisted for Best Paper in Environmental Politics, 2024* 
+  &nbsp; &nbsp; *Shortlisted for Best Paper in Environmental Politics, 2024* 
  
 
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). _**American Politics Research**_. [Paper Link](https://journals.sagepub.com/eprint/XKEEENHBVUHAYAGHRCZR/full) 
