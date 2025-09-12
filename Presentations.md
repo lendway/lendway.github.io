@@ -3,7 +3,7 @@ layout: single
 
 ---
 
-[**University of Pennsylvania (2025)**](https://www.youtube.com/watch?v=RThsKCtBvdUt=222)
+[**University of Pennsylvania Norms and Behavioral Change Series Presentation (2025)**](https://www.youtube.com/watch?v=RThsKCtBvdUt=222)
 
 [**Princeton University Center for the Study of Democratic Politics Identity and Inequality Poster Presentation (2024)**](/Final_9.19.24_Lendway_CSDP_Presentation.pdf)
 
