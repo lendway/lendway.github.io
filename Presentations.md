@@ -7,6 +7,7 @@ layout: single
 
 <iframe width="942" height="530" src="https://www.youtube.com/watch?v=RThsKCtBvdU" title="Norms and Behavioral Norms Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 [**Princeton University Center for the Study of Democratic Politics Identity and Inequality Poster Presentation (2024)**](/Final_9.19.24_Lendway_CSDP_Presentation.pdf)
 
 [**Harvard University Climate Pipeline Conference Slides (2022)**](/Final%20June%202022%20Harvard%20Climate%20Pipeline%20Conference%20Slides.pdf)
