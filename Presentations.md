@@ -11,5 +11,5 @@ layout: single
 
 <!-- [**Hofstra University Anti-Fascism in the 21st Century Conference Presentation (2022)**](https://youtu.be/5Jiw7vaepFw?t=1323) -->
 
-<iframe width="942" height="530" src="https://www.youtube.com/embed/5Jiw7vaepFw?start=1323" title="Panel V Communicating Anti Fascism Strategies, Tactics, and Implications" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- <iframe width="942" height="530" src="https://www.youtube.com/embed/5Jiw7vaepFw?start=1323" title="Panel V Communicating Anti Fascism Strategies, Tactics, and Implications" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
