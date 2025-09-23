@@ -14,7 +14,7 @@ layout: single
 
 **Papers Under Review**
 
-"Sermon Rhetoric and White Evangelical Support for the Republican Party." R&R at _**Political Behavior**_.
+"The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." R&R at _**Political Behavior**_.
 
 "Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." R&R at _**Political Behavior**_. 
 
