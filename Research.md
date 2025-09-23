@@ -12,6 +12,7 @@ layout: single
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). _**American Politics Research**_. [Paper Link](https://journals.sagepub.com/eprint/XKEEENHBVUHAYAGHRCZR/full) 
 
 **Book Under Review**
+
 "Sermon Rhetoric and White Evangelical Support for the Republican Party."
 
 **Papers Under Review**
