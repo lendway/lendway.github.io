@@ -13,9 +13,9 @@ layout: single
 
 **Papers Under Review**
 
-"The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." R&R at _**Political Behavior**_.
+"Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." Conditionally Accepted at _**Political Behavior**_. 
 
-"Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." R&R at _**Political Behavior**_. 
+"The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." R&R at _**Political Behavior**_.
 
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). R&R at _**The Journal of Conflict Resolution**_. [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008)
 
