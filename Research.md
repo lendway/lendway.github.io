@@ -4,6 +4,8 @@ layout: single
 ---
 
 **Peer-Reviewed Publications:** 
+
+"Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." Conditionally Accepted at _**Political Behavior**_. 
  
 "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). _**Environmental Politics**_. [Paper Link](https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top)     
   &nbsp; &nbsp; -Shortlisted for 2024 *Environmental Politics* Article of the Year   
@@ -12,8 +14,6 @@ layout: single
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). _**American Politics Research**_. [Paper Link](https://journals.sagepub.com/eprint/XKEEENHBVUHAYAGHRCZR/full) 
 
 **Papers Under Review**
-
-"Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." Conditionally Accepted at _**Political Behavior**_. 
 
 "The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." R&R at _**Political Behavior**_.
 
