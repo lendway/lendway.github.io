@@ -23,9 +23,9 @@ layout: single
 
 "Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
 
-"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw)
-
 "Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath) [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
+
+"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw)
 
 **Book Under Review**
 
