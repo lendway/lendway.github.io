@@ -15,13 +15,13 @@ layout: single
 
 **Papers Under Review**
 
+"Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). R&R at the _**American Journal of Political Science**_  [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
+
 "The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." R&R at _**Political Behavior**_.
 
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). R&R at _**The Journal of Conflict Resolution**_. [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008)
 
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
-
-"Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
 
 "Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath) [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
 
