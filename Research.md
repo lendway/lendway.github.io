@@ -6,6 +6,8 @@ layout: single
 **Peer-Reviewed Publications:** 
 
 "Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." Conditionally Accepted at _**Political Behavior**_. 
+
+"Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). Accepted at _**The Journal of Conflict Resolution**_. [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008)
  
 "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). _**Environmental Politics**_. [Paper Link](https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top)     
   &nbsp; &nbsp; -Shortlisted for 2024 *Environmental Politics* Article of the Year   
@@ -18,8 +20,6 @@ layout: single
 "Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). R&R at the _**American Journal of Political Science**_  [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
 
 "The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." R&R at _**Political Behavior**_.
-
-"Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). R&R at _**The Journal of Conflict Resolution**_. [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008)
 
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
