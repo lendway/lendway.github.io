@@ -16,7 +16,7 @@ layout: single
 
 **Papers Under Review**
 
-"Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). R&R at the _**American Journal of Political Science**_  [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
+"Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). R&R at the _**American Journal of Political Science**_.  [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
 
 "The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." R&R at _**Political Behavior**_.
 
