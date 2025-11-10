@@ -12,7 +12,6 @@ layout: single
 "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). _**Environmental Politics**_. [Paper Link](https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top)     
   &nbsp; &nbsp; -Shortlisted for 2024 *Environmental Politics* Article of the Year   
  
-
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). _**American Politics Research**_. [Paper Link](https://journals.sagepub.com/eprint/XKEEENHBVUHAYAGHRCZR/full) 
 
 **Papers Under Review**
@@ -21,11 +20,12 @@ layout: single
 
 "The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." R&R at _**Political Behavior**_.
 
+"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw). R&R at _**Research and Politics**_.
+
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
 "Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath) [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
 
-"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw)
 
 **Book Under Review**
 
