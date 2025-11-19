@@ -5,9 +5,9 @@ layout: single
 
 **Peer-Reviewed Publications:** 
 
-"Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." Conditionally Accepted at _**Political Behavior**_. 
+"Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." Forthcoming at _**Political Behavior**_. 
 
-"Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). Accepted at the _**Journal of Conflict Resolution**_. [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008)
+"Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). Forthcoming at the _**Journal of Conflict Resolution**_. [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008)
  
 "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). _**Environmental Politics**_. [Paper Link](https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top)     
   &nbsp; &nbsp; -Shortlisted for 2024 *Environmental Politics* Article of the Year   
