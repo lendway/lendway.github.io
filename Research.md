@@ -5,7 +5,7 @@ layout: single
 
 **Peer-Reviewed Publications:** 
 
-"Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." Forthcoming in _**Political Behavior**_. 
+"Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." _**Political Behavior**_. [Paper Link]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008](https://link.springer.com/article/10.1007/s11109-025-10109-4))
 
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). _**Journal of Conflict Resolution**_. [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060008)
  
