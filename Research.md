@@ -10,7 +10,7 @@ layout: single
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). _**Journal of Conflict Resolution**_. [Paper Link](https://journals.sagepub.com/doi/abs/10.1177/00220027251399905)
  
 "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). _**Environmental Politics**_. [Paper Link](https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top)     
-  &nbsp; &nbsp; -Shortlisted for 2024 *Environmental Politics* Article of the Year [Announcement Link](https://environmentalpoliticsjournal.net/editorial-announcements/environmental-politics-article-of-the-year-award-2024/)   
+  &nbsp; &nbsp; -Shortlisted for 2024 *Environmental Politics* Article of the Year [Shortlist Announcement Link](https://environmentalpoliticsjournal.net/editorial-announcements/environmental-politics-article-of-the-year-award-2024/)   
  
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). _**American Politics Research**_. [Paper Link](https://journals.sagepub.com/eprint/XKEEENHBVUHAYAGHRCZR/full) 
 
