@@ -31,6 +31,10 @@ layout: single
 
 "Sermon Rhetoric and White Evangelical Support for the Republican Party."
 
-**Sample of Other Writing:**
+**General Interest Writing:**
+
+"Is Venezuela Iraq or Panama? Failure or success? [Op-Ed Link](https://www.post-gazette.com/opinion/insight/2026/01/11/venezuela-maduro-trump-history-analogy-iraq-libya-panama-joshua-schwartz-lendway/stories/202601110003).
 
 "The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences." _**Yale Journal of International Affairs**_. [Paper Link](https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences)
+
+
