@@ -11,6 +11,10 @@ Instructor: Paul Lendway
 
 _"America’s political economy critically hinges on open markets, individual liberties, and institutional constraints legitimized by state constitutions. Domestically and abroad, recent decades have consisted of a meteoric rise of populists on the ideological left and ideological right challenging these core assumptions under the mantle of the people’s will. This class will examine foundational texts on liberalism and populism, discuss the historic interplay between the two in the context of American politics, and wrestle with how America’s political economy can respond to the theoretical and practical challenges of populism."_  
 
+**Introduction to American Politics and Policy (Spring 2026)** <br />
+Instructors: Hakeem Jefferson and Adam Bonica
+
+_``American democracy faces a series of unprecedented challenges. This course will identify the greatest areas of weakness in the American political system, make sense of the most pressing threats facing democracy, and contemplate how democracy can be strengthened. With this them - in defense of democracy - in mind, we will examine several questions: What guiding principles, norms, and institutions organize and structure American politics, and how do they affect the health and effectiveness of American democracy? What do patterns of political participation and representation in the United States tell us about the health of our democracy? How do partisan and social identities breed hostility and antagonism among the mass public? How does information from the media and other sources advance or frustrate democratic outcomes? What does increased violence - political, racially motivated, or otherwise - reveal about the trajectory of democracy in the United States? This is a course built on the science of politics, and our aim is to bring the scientific study of politics to bear on these pressing questions.''_
 
 -----------------------------------------------------------------------------------------------------
  
