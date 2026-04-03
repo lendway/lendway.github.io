@@ -16,11 +16,6 @@ Instructor: Paul Lendway
 
 _"Citizenship is not just what passport you hold or where you were born. Citizenship also means equal membership in a self-governing political community. We will explore some of the many debates about this ideal: Who is (or ought to be) included in citizenship? Who gets to decide? What responsibilities come with citizenship? Is citizenship analogous to being a friend, a family member, a business partner? How have people excluded from citizenship fought for, and sometimes won, inclusion? These debates have a long history, featuring in some of the earliest recorded philosophy and literature but also animating current political debates in the United States and elsewhere."_  
 
-**Introduction to American Politics and Policy (Spring 2026)** <br />
-Instructors: Adam Bonica and Hakeem Jefferson 
-
-_``American democracy faces a series of unprecedented challenges. This course will identify the greatest areas of weakness in the American political system, make sense of the most pressing threats facing democracy, and contemplate how democracy can be strengthened. With this them - in defense of democracy - in mind, we will examine several questions: What guiding principles, norms, and institutions organize and structure American politics, and how do they affect the health and effectiveness of American democracy? What do patterns of political participation and representation in the United States tell us about the health of our democracy? How do partisan and social identities breed hostility and antagonism among the mass public? How does information from the media and other sources advance or frustrate democratic outcomes? What does increased violence - political, racially motivated, or otherwise - reveal about the trajectory of democracy in the United States? This is a course built on the science of politics, and our aim is to bring the scientific study of politics to bear on these pressing questions.''_
-
 -----------------------------------------------------------------------------------------------------
  
 Teaching at Yale University: 
