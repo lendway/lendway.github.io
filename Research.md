@@ -5,7 +5,7 @@ layout: single
 
 **Peer-Reviewed Publications:** 
 
-"The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." **Political Behavior**.
+"The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." _**Political Behavior**_.
 
 "Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." _**Political Behavior**_.  [Paper Link](https://link.springer.com/article/10.1007/s11109-025-10109-4)
 
