@@ -9,6 +9,8 @@ layout: single
 
 "Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." _**Political Behavior**_.  [Paper Link](https://link.springer.com/article/10.1007/s11109-025-10109-4)
 
+"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw). Accepted at _**Research and Politics**_.
+
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). _**Journal of Conflict Resolution**_. [Paper Link](https://journals.sagepub.com/doi/abs/10.1177/00220027251399905)
  
 "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). _**Environmental Politics**_. [Paper Link](https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top)     
@@ -19,8 +21,6 @@ layout: single
 **Papers Under Review**
 
 "Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). R&R at the _**American Journal of Political Science**_.  [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
-
-"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw). R&R at _**Research and Politics**_.
 
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
