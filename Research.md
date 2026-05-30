@@ -22,9 +22,11 @@ layout: single
 
 "Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). R&R at the _**American Journal of Political Science**_.  [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
 
+"Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath). R&R at the _**Journal of Politics**_. [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
+
+
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
-"Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath) [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
 
 
 **Book Under Review**
