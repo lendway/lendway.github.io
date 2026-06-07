@@ -9,7 +9,7 @@
 
 
 
-Welcome! I am a Postdoctoral Scholar at Stanford University. In May 2025, I graduated with a Ph.D. in Political Science (with departmental distinction) from Yale University.  
+Welcome! I am a Postdoctoral Scholar at Stanford University. In May 2025, I graduated with a Ph.D. in Political Science (with departmental distinction) from Yale University. I was selected to receive the 2026 Junior Scholar Award from the Political Psychology Section of the American Political Science Association.  
 
 The norms and rules that comprise American democracy are eroding. Why? What are the consequences of this trend? And what can be done to address this issue? My research program aims to address these questions. One stream of my research investigates how various forms of political communication (i.e.,  sermon rhetoric, populist appeals, etc.) shape political preferences. Another strand of my research probes the role of information (i.e., information about social movements, inequality, AI, etc.) in structuring public opinion and policy preferences. A final line of my research explores solutions to mass polarization. This includes a project that tests Americans' willingness to compromise on a series of multi-dimensional policy tradeoffs (i.e., a conservative immigration policy and a liberal abortion policy, etc.).
 
