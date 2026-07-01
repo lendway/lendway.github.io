@@ -27,7 +27,7 @@ layout: single
 
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
-``AI, Digital Twins, and the Ethics of Training Data in Healthcare'' (with Amber Bansal, Rebecca
+"AI, Digital Twins, and the Ethics of Training Data in Healthcare" (with Amber Bansal, Rebecca
 Lendway, Arvind Salem, Kate Samuelson, and Jadon Urogdy).
 
 **Book Under Review**
