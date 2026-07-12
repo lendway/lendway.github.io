@@ -24,11 +24,8 @@ layout: single
 
 "Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath). R&R at the _**Journal of Politics**_. [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
 
-
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
-"AI, Digital Twins, and the Ethics of Training Data in Healthcare" (with Amber Bansal, Rebecca
-Lendway, Arvind Salem, and Jadon Urogdy).
 
 **Book Under Review**
 
