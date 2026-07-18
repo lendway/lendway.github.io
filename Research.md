@@ -5,11 +5,13 @@ layout: single
 
 **Peer-Reviewed Publications:** 
 
+"Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). Accepted in the _**American Journal of Political Science**_.  [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
+
 "The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." _**Political Behavior**_. [Paper Link](https://link.springer.com/article/10.1007/s11109-026-10158-3)
 
 "Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." _**Political Behavior**_.  [Paper Link](https://link.springer.com/article/10.1007/s11109-025-10109-4)
 
-"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw). Accepted at _**Research and Politics**_.
+"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw). Accepted in _**Research and Politics**_.
 
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). _**Journal of Conflict Resolution**_. [Paper Link](https://journals.sagepub.com/doi/abs/10.1177/00220027251399905)
  
@@ -19,8 +21,6 @@ layout: single
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). _**American Politics Research**_. [Paper Link](https://journals.sagepub.com/eprint/XKEEENHBVUHAYAGHRCZR/full) 
 
 **Papers Under Review**
-
-"Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). R&R at the _**American Journal of Political Science**_.  [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
 
 "Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath). R&R at the _**Journal of Politics**_. [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
 
