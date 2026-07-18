@@ -6,12 +6,12 @@ layout: single
 
 Teaching at Stanford University:
 
-**Liberalism and Populism in the American Political Economy (Fall 2025; Winter 2027)** <br />
+**Liberalism and Populism in the American Political Economy (Fall 2025; Fall 2026)** <br />
 Instructor: Paul Lendway
 
 _"America’s political economy critically hinges on open markets, individual liberties, and institutional constraints legitimized by the federal and state constitutions. Domestically and abroad, recent decades have consisted of a meteoric rise of populists on the ideological left and ideological right challenging these core assumptions under the mantle of the people’s will. This class will examine foundational texts on liberalism and populism, discuss the historic interplay between the two in the context of American politics, and wrestle with how America’s political economy can respond to the theoretical and practical challenges of populism."_  
 
-**Citizenship in the 21st Century (Fall 2026)** <br />
+**Citizenship in the 21st Century (Winter 2026)** <br />
 Instructor: Paul Lendway
 
 _"Citizenship is not just what passport you hold or where you were born. Citizenship also means equal membership in a self-governing political community. We will explore some of the many debates about this ideal: Who is (or ought to be) included in citizenship? Who gets to decide? What responsibilities come with citizenship? Is citizenship analogous to being a friend, a family member, a business partner? How have people excluded from citizenship fought for, and sometimes won, inclusion? These debates have a long history, featuring in some of the earliest recorded philosophy and literature but also animating current political debates in the United States and elsewhere."_  
