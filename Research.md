@@ -11,9 +11,9 @@ layout: single
 
 "Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." _**Political Behavior**_.  [Paper Link](https://link.springer.com/article/10.1007/s11109-025-10109-4)
 
-"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw). Accepted in _**Research and Politics**_.
-
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). _**Journal of Conflict Resolution**_. [Paper Link](https://journals.sagepub.com/doi/abs/10.1177/00220027251399905)
+
+"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw). Accepted in _**Research and Politics**_.
  
 "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). _**Environmental Politics**_. [Paper Link](https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top)     
   &nbsp; &nbsp; -Shortlisted for 2024 *Environmental Politics* Article of the Year [Shortlist Announcement Link](https://environmentalpoliticsjournal.net/editorial-announcements/environmental-politics-article-of-the-year-award-2024/)   
