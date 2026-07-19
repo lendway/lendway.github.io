@@ -11,7 +11,7 @@ layout: single
 
 "Thin Populist Appeals and Democratic Backsliding Through Candidate Legitimization and Elite Delegitimization." _**Political Behavior**_.  [Paper Link](https://link.springer.com/article/10.1007/s11109-025-10109-4)
 
-"Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). _**Journal of Conflict Resolution**_. [Paper Link](https://journals.sagepub.com/doi/abs/10.1177/00220027251399905)
+"Historical Analogies and Public Support for Foreign Policy Action" (with Chris Blair and Josh Schwartz). _**Journal of Conflict Resolution**_. [Paper Link](https://journals.sagepub.com/doi/abs/10.1177/00220027251399905)
 
 "Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw). Accepted in _**Research and Politics**_. [Paper Link](/4_22_26_R_P_Ideology_Comment_Paper.pdf)
  
