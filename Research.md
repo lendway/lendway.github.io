@@ -13,7 +13,7 @@ layout: single
 
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). _**Journal of Conflict Resolution**_. [Paper Link](https://journals.sagepub.com/doi/abs/10.1177/00220027251399905)
 
-"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw). Accepted in _**Research and Politics**_.[Paper Link](/4_22_26_R_P_Ideology_Comment_Paper.pdf)
+"Most Americans Understand Liberal and Conservative: A Note on Self-Reported Political Ideology" (with Trent Ollerenshaw). Accepted in _**Research and Politics**_. [Paper Link](/4_22_26_R_P_Ideology_Comment_Paper.pdf)
  
 "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). _**Environmental Politics**_. [Paper Link](https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top)     
   &nbsp; &nbsp; -Shortlisted for 2024 *Environmental Politics* Article of the Year [Shortlist Announcement Link](https://environmentalpoliticsjournal.net/editorial-announcements/environmental-politics-article-of-the-year-award-2024/)   
