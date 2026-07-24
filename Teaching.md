@@ -16,6 +16,11 @@ Instructor: Paul Lendway
 
 _"Citizenship is not just what passport you hold or where you were born. Citizenship also means equal membership in a self-governing political community. We will explore some of the many debates about this ideal: Who is (or ought to be) included in citizenship? Who gets to decide? What responsibilities come with citizenship? Is citizenship analogous to being a friend, a family member, a business partner? How have people excluded from citizenship fought for, and sometimes won, inclusion? These debates have a long history, featuring in some of the earliest recorded philosophy and literature but also animating current political debates in the United States and elsewhere."_  
 
+**Data Science for Politics (Fall Quarter 2026)** <br />
+Instructor: Javier Mejia
+
+_"Data science is quickly changing the way we understand and and engage in the political process. In this course we will develop fundamental techniques of data science and apply them to large political datasets on elections, campaign finance, lobbying, and more. The objective is to give students the skills to carry out cutting edge quantitative political studies in both academia and the private sector. Students with technical backgrounds looking to study politics quantitatively are encouraged to enroll."_  
+
 -----------------------------------------------------------------------------------------------------
  
 Teaching at Yale University: 
