@@ -19,7 +19,7 @@ _"Citizenship is not just what passport you hold or where you were born. Citizen
 **Data Science for Politics (Fall Quarter 2026)** <br />
 Instructor: Javier Mejia
 
-_"Data science is quickly changing the way we understand and and engage in the political process. In this course we will develop fundamental techniques of data science and apply them to large political datasets on elections, campaign finance, lobbying, and more. The objective is to give students the skills to carry out cutting edge quantitative political studies in both academia and the private sector. Students with technical backgrounds looking to study politics quantitatively are encouraged to enroll."_  
+_"Data science is transforming how we understand politics, design policy, and make decisions across every kind of organization. In this course we learn the fundamental tools of data science and put them to work on real political and policy questions. The course is built around bite-size assignments that develop your R coding and statistical reasoning from scratch — including how to think clearly about probability and uncertainty. Once those foundations are solid, the course turns to the tools reshaping data work today: reproducible workflows with git/GitHub, and the use of AI as a supervised analytical assistant. You will leave equipped for any setting that demands a social-scientific approach to data — from policy non-profits to government, from Silicon Valley to Wall Street and beyond. There are no formal prerequisites and no programming experience is assumed."_  
 
 -----------------------------------------------------------------------------------------------------
  
