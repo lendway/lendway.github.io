@@ -31,7 +31,7 @@ layout: single
 
 "Sermon Rhetoric and White Evangelical Support for the Republican Party."
 
-"The Boundaries of Tolerance: Religious Pluralism in Contemporary American Politic" (Co-edited with Paul Djupe, Jacob Neiheisel, and Joseph Prud'homme).
+"The Boundaries of Tolerance: Religious Pluralism in Contemporary American Politics" (Co-edited with Paul Djupe, Jacob Neiheisel, and Joseph Prud'homme).
 
 **General Interest Writing:**
 
