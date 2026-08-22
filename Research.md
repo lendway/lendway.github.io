@@ -31,6 +31,8 @@ layout: single
 
 "Sermon Rhetoric and White Evangelical Support for the Republican Party."
 
+"The Boundaries of Tolerance: Religious Pluralism in Contemporary American Politic" (Co-edited with Paul Djupe, Jacob Neiheisel, and Joseph Prud'homme).
+
 **General Interest Writing:**
 
 "Is Venezuela Iraq or Panama? Failure or success? _**Pittsburgh Post-Gazette**_. [Op-Ed Link](https://www.post-gazette.com/opinion/insight/2026/01/11/venezuela-maduro-trump-history-analogy-iraq-libya-panama-joshua-schwartz-lendway/stories/202601110003).
