@@ -27,7 +27,7 @@ layout: single
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
 
-**Book Under Review**
+**Books Under Review**
 
 "Sermon Rhetoric and White Evangelical Support for the Republican Party."
 
