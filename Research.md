@@ -5,6 +5,8 @@ layout: single
 
 **Peer-Reviewed Publications:** 
 
+"Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath). R&R at the _**Journal of Politics**_. [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
+
 "Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). Accepted in the _**American Journal of Political Science**_.  [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
 
 "The Political Ramifications of Sermon Rhetoric among White U.S. Protestants and White Catholics." _**Political Behavior**_. [Paper Link](https://link.springer.com/article/10.1007/s11109-026-10158-3)
@@ -21,8 +23,6 @@ layout: single
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). _**American Politics Research**_. [Paper Link](https://journals.sagepub.com/eprint/XKEEENHBVUHAYAGHRCZR/full) 
 
 **Papers Under Review**
-
-"Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath). R&R at the _**Journal of Politics**_. [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
 
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise_Paper.pdf)
 
