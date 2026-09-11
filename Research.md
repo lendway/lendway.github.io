@@ -5,7 +5,7 @@ layout: single
 
 **Peer-Reviewed Publications:** 
 
-"Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath). R&R at the _**Journal of Politics**_. [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
+"Unequal Punishment? Equality Before the Law, Partisanship, and Race in the United States" (with Jamie Druckman, Rongbo Jin, Trent Ollerenshaw, and Arjun Vishwanath). Conditionally accepted in the _**Journal of Politics**_. [Paper Link](/10.10.25_Equal_Protection_Paper.pdf)
 
 "Populist Appeals and Vote Choice: A Meta-Analysis" (with Tylir Fowler). Accepted in the _**American Journal of Political Science**_.  [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192107)
 
