@@ -29,9 +29,9 @@ layout: single
 
 **Books Under Review**
 
-"Sermon Rhetoric and White Evangelical Support for the Republican Party."
+"Sermon Rhetoric and White Evangelical Support for the Republican Party." (_Under Review at Cambridge University Press_)
 
-"The Boundaries of Tolerance: Religious Pluralism in Contemporary American Politics" (Co-edited with Paul Djupe, Jacob Neiheisel, and Joseph Prud'homme).
+"The Boundaries of Tolerance: Religious Pluralism in Contemporary American Politics" (Co-edited with Paul Djupe, Jacob Neiheisel, and Joseph Prud'homme). (_Under Review at Temple University Press_)
 
 **General Interest Writing:**
 
