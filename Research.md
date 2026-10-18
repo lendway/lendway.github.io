@@ -24,7 +24,7 @@ layout: single
 
 **Papers Under Review**
 
-"Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). _**R&R at Political Behavior**_ [Paper Link](/Compromise_Paper.pdf)
+"Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins). _**R&R at Political Behavior**_ [Paper Link](/Compromise_Paper.pdf)
 
 
 **Books Under Review**
