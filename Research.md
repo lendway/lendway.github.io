@@ -26,6 +26,9 @@ layout: single
 
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins). _**R&R at Political Behavior**_ [Paper Link](/Compromise_Paper.pdf)
 
+**Book Under Contract**
+
+"Fear and Loathing in American Politics." **_Under Contract at De Gruyter Press_**.
 
 **Books Under Review**
 
