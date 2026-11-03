@@ -22,7 +22,7 @@ layout: single
  
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). _**American Politics Research**_. [Paper Link](https://journals.sagepub.com/eprint/XKEEENHBVUHAYAGHRCZR/full) 
 
-**Papers Under Review**
+**Paper Under Review**
 
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins). _**R&R at Political Behavior**_ [Paper Link](/Compromise_Paper.pdf)
 
